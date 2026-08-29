@@ -9,7 +9,7 @@
 
 ### 🔧 Aktuelles Projekt
 
-**[MetalDB](https://metaldb.org)** — eine Metal-Musik-Datenbank & Community-Plattform, die ich als Solo-Entwickler baue und betreibe. Von der API-Anbindung an MusicBrainz über eine eigene Weltkarte (D3.js) bis zum Server-Hosting auf einem Hetzner-VPS mache ich alles selbst — Backend, Frontend, Infrastruktur, Security.
+**[MetalDB](https://metaldb.org)** — Eine Metal-Musik-Datenbank & Community-Plattform, die ich als Solo-Entwickler baue und betreibe. Von der API-Anbindung an MusicBrainz sowie Last.fm über Datenanalysen bis hin zu einer selbst entwickelten API und dem Server-Hosting auf einem Hetzner-VPS mache ich alles selbst — Backend, Frontend, Infrastruktur, Security.
 
 ---
 
@@ -24,9 +24,9 @@
 ### 🌐 Schwerpunkte
 
 - 🎸 Full-Stack-Entwicklung von MetalDB (Flask, SQLAlchemy, Redis, nginx)
-- 🐧 Linux-Enthusiast — Arch && CachyOS
+- 🐧 Linux-Enthusiast — Arch & CachyOS
 - 🔐 Interesse an Netzwerktechnik & Security (CTFs, aktuell CCNA-Vorbereitung)
-- 🎮 Metal-Musik, Gaming
+- 🎮 Metal-Musik und Gaming
 
 ---
 
@@ -36,4 +36,3 @@
   <!-- Trag hier deine Links ein, z. B. Discord, E-Mail, metaldb.org -->
   <a href="https://metaldb.org"><img src="https://img.shields.io/badge/MetalDB-website-black?style=for-the-badge" /></a>
 </p>
-
